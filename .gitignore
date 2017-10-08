@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+#忽略bin文件夹
+/bin
+#忽略bin文件夹内的内容
+/bin/
+=======
 # Compiled class file
 *.class
 
@@ -20,3 +26,4 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+>>>>>>> 7280efc5b58da2db09dacf89dda0080fe8f6ed90
